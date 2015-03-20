@@ -14,6 +14,29 @@ pollution$amount[2,4,6]
 storms$pressure / storms$wind
 ##tidyr###
 ##A package that reshapes the layout of tables.
+
+
+dsfdsfdsf
+dsfdsfds
+dsffdsfdsf
+dfs
+dsfds
+
+dfs
+ds
+f
+sdf
+sd
+f
+dsf
+s
+dfs
+dfs
+
+fdfs
+
+
+
 library(tidyr)
 Two main functions: gather() and spread()
 # install.packages("tidyr")
